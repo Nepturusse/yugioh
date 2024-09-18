@@ -1,0 +1,10 @@
+.Titre {
+    background-color: rgba(52, 52, 206, 0.658);
+    height: 55px;
+    text-align: center;
+}
+
+.TexteInvisible {
+    visibility: hidden;
+}
+
